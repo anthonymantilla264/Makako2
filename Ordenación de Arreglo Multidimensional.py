@@ -1,4 +1,4 @@
-# eOrdenación de Arreglo Multidimensional.py
+# Ordenación de Arreglo Multidimensional.py
 
 # Matriz 3x3
 matriz = [
